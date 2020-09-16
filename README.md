@@ -13,7 +13,7 @@ Classify the given genetic variations/mutations based on evidence from text-base
 literature.
 
 
-1.2. Source/Useful Links
+2. Source/Useful Links
 
 
 Some articles and reference blogs about the problem statement
